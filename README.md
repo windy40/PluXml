@@ -1,11 +1,20 @@
-PluXml
-======
-Créez un site web performant en toute simplicité et sans base de données.
+<p align="center">
+    <img src="https://www.pluxml.org/themes/pluxml-org-1.0/img/plx-logo-bleu.png" />
+    <h1 align="center">PluXml</h1>
+</p>
 
-[**Télécharger PluXml 5.7**](https://www.pluxml.org/download/pluxml-latest.zip) (zip)
+<p align="center">
+    <a href="https://www.pluxml.org/download/pluxml-latest.zip"><img src="https://badgen.net/github/release/pluxml/pluxml" /></a>
+    <a href="https://github.com/pluxml/PluXml/blob/master/readme/LICENSE"><img src="https://badgen.net/badge/license/GPL/green" /></a>
+    <a href="https://twitter.com/pluxml"><img src="https://badgen.net/twitter/follow/pluxml" /></a>
+</p>
 
-* Version stable (5.7) : [master](https://github.com/pluxml/PluXml/tree/master)
-* Version en développement (5.8) : [develop](https://github.com/pluxml/PluXml/tree/develop)
+<p align="center">Créez un site web performant en toute simplicité et sans base de données.</p>
+
+[**Télécharger PluXml 5.8.4**](https://www.pluxml.org/download/pluxml-latest.zip) (zip)
+
+* Version bugfix (5.8.x) en développement : [5.8](https://github.com/pluxml/PluXml/tree/5.8)
+* Verison instable (6.0) en développement : [6.0](https://github.com/pluxml/PluXml/tree/6.0)
 
 Principales caractéristiques
 ----------------------------
@@ -32,7 +41,7 @@ Prérequis
 
 Que ce soit en local sur votre ordinateur ou sur internet, votre hébergement doit posséder les éléments suivants pour pouvoir utiliser PluXml :
 
-* PHP 5 ou supérieur
+* PHP 5.6 ou supérieur
 * Librairie GD pour la gestion des images
 * Fonction PHP d'envoi d'emails autorisée (non obligatoire)
 * Le module Apache mod_rewrite activé pour utiliser la réécriture d'url (non obligatoire)
@@ -40,7 +49,7 @@ Que ce soit en local sur votre ordinateur ou sur internet, votre hébergement do
 Procédure d'installation
 ------------------------
 
-* Récuperez l'archive téléchargeable [sur cette page](http://www.pluxml.org/) et dézippez la à la racine de votre site
+* Récuperez l'archive téléchargeable [sur cette page](https://www.pluxml.org/) et dézippez la à la racine de votre site
 * Connectez-vous à votre site et suivez la procédure d'installation affichée à l'écran
 
 Mise à jour d'une version existante de PluXml
@@ -56,4 +65,4 @@ Liens
 * [Site officiel](https://www.pluxml.org/)
 * [Forum](https://forum.pluxml.org/)
 * [Thèmes et plugins](https://ressources.pluxml.org/)
-* [Documentation](https://telechargements.pluxml.org/docs/PluXml_-_Documentation.pdf)
+* [Documentation](https://wiki.pluxml.org/)
